@@ -2,5 +2,5 @@
 
 关于时间复杂度和空间复杂度，找到一张强大的网图，如下：
 
-![image](image.png)
+![image](image.jpg)
 
